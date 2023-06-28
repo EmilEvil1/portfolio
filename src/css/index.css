@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'MARegular';
+  src: url('../fonts/MontserratAlternates-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'MAMedium';
+  src: url('../fonts/MontserratAlternates-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'MAMBold';
+  src: url('../fonts/MontserratAlternates-Bold.ttf');
+  font-weight: 800;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #272727;
+  color: white;
+  font-size: 1rem;
+  font-family: 'MARegular', serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+menu {
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin: 0;
+  font-size: 16px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+input,
+textarea {
+  color: white;
+  font-family: 'MARegular', serif;
+}
+
+input:focus {
+  outline: none;
+}
+
+input:-webkit-autofill {
+  border: none;
+  caret-color: #fff;
+  color: #fff;
+  background: transparent;
+  -webkit-text-fill-color: #fff;
+  -webkit-background-clip: text;
+}
+
+::-moz-selection {
+  background: #f3ca2f;
+}
+
+::webkit-selection {
+  background: #f3ca2f;
+}
+
+::selection {
+  background: #f3ca2f;
+}

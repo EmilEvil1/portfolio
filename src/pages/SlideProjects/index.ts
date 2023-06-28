@@ -1,0 +1,1 @@
+export { SlideProjects } from './SlideProjects'

@@ -1,0 +1,1 @@
+export { SlideContacts } from './SlideContacts'

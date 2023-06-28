@@ -1,0 +1,1 @@
+export { SlideAbout } from './SlideAbout'
