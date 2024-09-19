@@ -1,0 +1,72 @@
+.swiper {
+  width: 100%;
+  height: 100vh;
+}
+
+.swiper.skillPoints {
+  height: 100%;
+}
+
+.swiper-slide {
+  height: 100% !important;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+div.swiper-pagination {
+  position: absolute;
+  right: 20px;
+  top: 39%;
+  width: 25px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 1000;
+  animation-duration: 1s;
+  animation-name: slideBullet;
+}
+
+@media only screen and (max-width: 1360px) {
+  div.swiper-pagination {
+    /*z-index: -1;*/
+    display: none;
+  }
+}
+
+span.swiper-pagination-bullet {
+  background: white;
+  width: 13px;
+  height: 13px;
+  margin: 5px !important;
+  opacity: 1 !important;
+  border-radius: 50%;
+}
+@media only screen and (max-width: 1360px) {
+  span.swiper-pagination-bullet {
+    display: none !important;
+  }
+}
+
+span.swiper-pagination-bullet-active {
+  background: rgb(243, 202, 47);
+  border: 1px solid white;
+}
+
+@keyframes slideBullet {
+  from {
+    right: -300px;
+  }
+  to {
+    right: 20px;
+  }
+}
+div.btnSlider {
+  color: #f3ca2f;
+}

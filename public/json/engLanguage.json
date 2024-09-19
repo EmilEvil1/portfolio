@@ -1,0 +1,290 @@
+{
+  "first": {
+    "title": "Hello, my name is",
+    "name": "Emil",
+    "whoiam": "I'm Frontend developer",
+    "cookieText": "By using this site, you consent to the use of cookies",
+    "btn": "Got it"
+  },
+  "second": {
+    "title": "skills",
+    "cards": [
+      {
+        "icon": "Adaptive",
+        "title": "Web, mobile, tablet layout",
+        "points": [
+          "HTML 5, pug",
+          "CSS3,(SCSS/SASS)",
+          "Styled Components / Linaria",
+          "PostCSS",
+          "PixelPerfect",
+          "Material UI, DevExpress, Ant-Design",
+          "StoryBook",
+          "UX"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "Programming",
+        "points": [
+          "JavaScript (ES2016 - ES2020)",
+          "TypeScript (4.0)",
+          "React, Next.JS (SSR)",
+          "React Query, Redux Thunk/Saga, RTK Query",
+          "React Testing Library, Jest, MSW",
+          "SQL: DML",
+          "MySQL",
+          "SOLID",
+          "npm, yarn, gulp, webpack",
+          "linux bash, nginx"
+        ]
+      },
+      {
+        "icon": "Tools",
+        "title": "Using resources",
+        "points": [
+          "Git",
+          "GitHub, GitLab, Bitbucket",
+          "Docker",
+          "Ci/CD, github/gitlab runners",
+          "Figma, Avacode, Photoshope",
+          "Jira, Confluence, Trello, Kaiten, Yandex Tracker"
+        ]
+      }
+    ]
+  },
+  "third": {
+    "title": "projects",
+    "yearTitle": "Year",
+    "roleTitle": "Role",
+    "stackTitle": "Tech stack",
+    "button": "Site link",
+    "sortUp": "Descending",
+    "sortDown": "Ascending",
+    "projects": [
+      {
+        "title": "NLMK. Document Tracking Service",
+        "role": "Frontend developer",
+        "technology": [
+          "React",
+          "TypeScript",
+          "React Query",
+          "Webpack",
+          "Material UI",
+          "StoryBook"
+        ],
+        "link": "https://nlmk.com/",
+        "img": "/img/projects/nlmk3.jpg",
+        "year": 2022
+      },
+      {
+        "title": "SberHealth",
+        "role": "Frontend developer",
+        "technology": [
+          "React, Next(SSR)",
+          "TypeScript",
+          "RTK",
+          "Webpack",
+          "StoryBook",
+          "Jest, MSW, RTL"
+        ],
+        "link": "https://sberhealth.ru/",
+        "img": "/img/projects/sb.jpg",
+        "year": 2024
+      },
+      {
+        "title": "TBM. Online shopping site",
+        "role": "Teamlead",
+        "technology": [
+          "React",
+          "TypeScript",
+          "Redux RTK",
+          "Webpack"
+        ],
+        "link": "https://www.tbm.ru/",
+        "img": "/img/projects/tbm.jpg",
+        "year": 2023
+      },
+      {
+        "title": "NLMK. Message and notification service",
+        "role": "Frontend developer",
+        "technology": [
+          "React",
+          "TypeScript",
+          "Redux Thunk",
+          "Webpack",
+          "Material UI",
+          "StoryBook"
+        ],
+        "link": "https://nlmk.com/",
+        "img": "/img/projects/nlmk2.jpg",
+        "year": 2021
+      },
+      {
+        "title": "NLMK. Vendor personal account service",
+        "role": "Frontend developer",
+        "technology": [
+          "React",
+          "TypeScript",
+          "Redux Thunk",
+          "Webpack",
+          "Material UI",
+          "StoryBook"
+        ],
+        "link": "https://nlmk.com/",
+        "img": "/img/projects/nlmk.jpg",
+        "year": 2020
+      },
+      {
+        "title": "Mosplitka. Online shopping site",
+        "role": "Teamlead",
+        "technology": [
+          "React",
+          "Next JS",
+          "Redux TKQ",
+          "Webpack"
+        ],
+        "link": "https://mosplitka.ru/",
+        "img": "/img/projects/mosplitka.jpg",
+        "year": 2022
+      },
+      {
+        "title": "Gidpopromo. Promo code platform",
+        "role": "Frontend developer",
+        "technology": [
+          "React",
+          "Next JS",
+          "SASS",
+          "Redux TK",
+          "Webpack"
+        ],
+        "link": "https://gidpopromo.ru/",
+        "img": "/img/projects/gidpopromo.jpg",
+        "year": 2018
+      },
+      {
+        "title": "Charitable Foundation Konstantin Khabensky",
+        "role": "Teamlead",
+        "technology": [
+          "Pug",
+          "SCSS",
+          "JavaScript",
+          "Vite"
+        ],
+        "link": "https://bfkh.ru/",
+        "img": "/img/projects/bfkh.jpg",
+        "year": 2022
+      },
+      {
+        "title": "Dobuy. Online shopping site",
+        "role": "Teamlead",
+        "technology": [
+          "Pug",
+          "SCSS",
+          "JavaScript",
+          "Vite"
+        ],
+        "link": "https://dobuy.ru/",
+        "img": "/img/projects/dobuy.jpg",
+        "year": 2023
+      },
+      {
+        "title": "Vladimir Regional Scientific Library",
+        "role": "Frontend developer",
+        "technology": [
+          "HTML5",
+          "CSS",
+          "JavaScript"
+        ],
+        "link": "https://library.vladimir.ru/",
+        "img": "/img/projects/library.png",
+        "year": 2018
+      },
+      {
+        "title": "Profdst. Corporate website",
+        "role": "Frontend developer",
+        "technology": [
+          "HTML5",
+          "CSS",
+          "JavaScript"
+        ],
+        "link": "https://profdst.ru/",
+        "img": "/img/projects/profdst.png",
+        "year": 2018
+      },
+      {
+        "title": "Cinnabon. Corporate website",
+        "role": "Frontend developer",
+        "technology": [
+          "HTML5",
+          "SASS",
+          "JavaScript",
+          "Gulp"
+        ],
+        "link": "https://cinnabonrussia.com/",
+        "img": "/img/projects/cinnabon.png",
+        "year": 2018
+      },
+      {
+        "title": "Palitra. Medical corporate website",
+        "role": "Frontend developer",
+        "technology": [
+          "HTML5",
+          "SASS",
+          "JavaScript",
+          "Gulp"
+        ],
+        "link": "https://palitramed.ru/",
+        "img": "/img/projects/palitra.png",
+        "year": 2020
+      },
+      {
+        "title": "Hawking bros. Corporate website",
+        "role": "Frontend developer",
+        "technology": [
+          "Pug",
+          "SASS",
+          "JavaScript",
+          "Gulp"
+        ],
+        "link": "https://hawkingbros.com/",
+        "img": "/img/projects/hb.jpg",
+        "year": 2021
+      }
+    ]
+  },
+  "fourth": {
+    "title": "contacts",
+    "btn": "Show map",
+    "form": {
+      "name": {
+        "placeholder": "Enter name",
+        "label": "Name",
+        "validation": "Required field"
+      },
+      "email": {
+        "placeholder": "Enter email",
+        "label": "Email",
+        "validation": "Enter correct email format",
+        "required": "Required field"
+      },
+      "subject": {
+        "placeholder": "Enter topic",
+        "label": "Topic",
+        "validation": "Min. 6 characters",
+        "required": "Required field"
+      },
+      "message": {
+        "placeholder": "Enter message",
+        "label": "Message",
+        "validation": "Min. 6 characters",
+        "required": "Required field"
+      },
+      "submitBtn": "Send"
+    }
+  }
+}
+
+
+
+
